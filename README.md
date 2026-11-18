@@ -40,3 +40,6 @@ Khi trang môn đã có, thêm liên kết `sports/ten-mon/index.html` vào danh
 
 3. Mở pull request từ nhánh riêng vào `main` trên GitHub.
 4. Trước khi merge, người phụ trách tích hợp kiểm tra các liên kết trong menu, việc tải tài nguyên dùng chung và các luồng đang hoạt động của website trên bản có thay đổi.
+﻿# Website quản lý chuỗi trung tâm thể thao
+
+Dự án nhóm xây dựng website quản lý chuỗi trung tâm thể thao, ưu tiên triển khai nghiệp vụ cho cơ sở Calisthenics.
