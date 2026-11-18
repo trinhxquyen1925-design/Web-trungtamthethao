@@ -12,8 +12,10 @@ Dự án nhóm xây dựng website quản lý chuỗi trung tâm thể thao, ưu
     ├── shared/
     │   └── style.css            # Kiểu hiển thị dùng chung
     └── sports/
-        └── calisthenics/
-            └── index.html       # Trang riêng của Calisthenics
+        ├── calisthenics/
+        │   └── index.html       # Trang riêng của Calisthenics
+        └── vo-thuat/
+            └── index.html       # Trang riêng của Võ thuật
 ```
 
 ## Website hoạt động như thế nào
